@@ -37,7 +37,7 @@ Extract:
 Raw CSV files (transactions.csv, merchants.csv, users.csv, accounts.csv) are extracted from various operational systems representing financial and user activities.
 
 Transform:
-Data cleaning and transformation occur to ensure standardization — correcting inconsistencies, handling missing values, and enforcing referential integrity.
+Data cleaning and transformation occur to ensure standardization, correcting inconsistencies, handling missing values, and enforcing referential integrity.
 Typical transformations include:
 
 Joining tables on shared keys (e.g., user_id, account_id, merchant_id).
@@ -49,4 +49,4 @@ Normalizing date fields and monetary values for time-series analysis.
 Load:
 The transformed data is loaded into structured database tables (e.g., Employee, Bonus, Transaction, etc.) within a data warehouse environment. This enables fast querying and seamless integration with BI tools.
 
-This ETL process ensures the entire data lifecycle — from ingestion to visualization — remains automated, reliable, and scalable.
+This ETL process ensures the entire data lifecycle; from ingestion to visualization remains automated, reliable, and scalable.
