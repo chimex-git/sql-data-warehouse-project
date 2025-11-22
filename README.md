@@ -2,12 +2,12 @@
 This project showcases the integration of Business Intelligence (BI) and Data Engineering (ETL) principles to transform raw financial data into actionable insights.
 
 ## CONTENTS
-transaction table schema
-merchants table schema
-users table schema
-accounts table schema
-sample data inserts
-example queries
+Transaction table schema
+Merchants table schema
+Users table schema
+Accounts table schema
+Sample data inserts
+Example queries
 
 ## BUSINESS INTELLIGENCE(BI) ASPECT
 The business intelligence layer focuses on uncovering insights that can guide strategic decisions. By linking transactions to user and merchant profiles, the analysis enables:
